@@ -1,5 +1,22 @@
-<h1>Hi 👋, I'm Aml Abu Amer</h1>
-<h2>A passionate frontend developer from Egypt</h2>
+<h1 align="center">Hi 👋, I'm Aml Abu Amer</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+<h2>🚀 About Me</h2>
+
+🌍 Graduate in Computer Science and completed my journey at <b>ITI</b> (Information Technology Institute) with a focus on Frontend & Cross-Platform Development.
+
+
+🎯 Frontend Developer passionate about creating seamless, responsive, and engaging web experiences.
+
+💻 I specialize in modern web technologies including <b>React</b>, <b>TypeScript</b>, and <b>Next.js</b>.
+
+🌟 I strive to design clean, maintainable code while focusing on delivering exceptional user interfaces.
+
+🚀 Continuously expanding my skill set and staying up to date with the latest trends in frontend development.
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
